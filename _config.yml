@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Messaging & Marketing Strategy for Change-Making Organizations. Student, Political Science & Mathematics."
   location         : "Indiana, USA"
-  employer         : "Student, BA: University of Maine, Presque Ile"
+  employer         : "BA, University of Maine, Presque Ile"
   uri              : # URL
   email            : "lynn@lynnswayze.com" 
 
@@ -38,7 +38,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-8688-4163"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lynnswayze"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "lynnswayze"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
