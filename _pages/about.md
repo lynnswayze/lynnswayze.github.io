@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "About Lynn Swayze"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+This is the personal/professional site of Lynn M. Swayze, a marketer and family law historian located out of Indiana, USA. This is a jekyll-based site without a lot of bloat to provide a more "Indie Web"-friendly website experience. This site will serve as a quasi-personal blog; a repository of my research, work, and reading; and the source of truth for my presence online. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+You can find my professional marketing work for Family Lawyers at https://FamilyLawCMO.com. 
 
 A data-driven personal website
 ======
