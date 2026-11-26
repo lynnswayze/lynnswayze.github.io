@@ -28,6 +28,8 @@ author:
   pronouns         : "she/her"  
   bio              : "Family/Estate Law Marketer and Legal history scholar"
   location         : "Indiana"
+  school           : "University of Maine at Presque Isle (BA - History & Poli Sci)"
+  school           : "Newlane University (BA - Philosophy)"
   employer         : "Family Law CMO, LLC"
   uri              : # FamilyLawCMO.com
   email            : "lynn@lynnswayze.com" 
@@ -90,10 +92,12 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  interviews:
+    title: 'Interviews'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -138,7 +142,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : lynnswayze
 facebook:
   username               :
   app_id                 :
